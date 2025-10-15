@@ -38,11 +38,6 @@ This template demonstrates how to build an AI-powered chat interface using Cloud
 
 1. Clone this repository:
 
-   ```bash
-   git clone https://github.com/cloudflare/templates.git
-   cd templates/llm-chat-app
-   ```
-
 2. Install dependencies:
 
    ```bash
